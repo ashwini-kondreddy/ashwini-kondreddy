@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there!👋 I'm K.Aswini a passionate Java developer who loves building cool things with code. I enjoy working on open-source projects, learning new technologies, and contributing to the developer community.<br><br>💻 Currently working with basic Java Projects.<br><br>🔭 Exploring new tools like SpringBoot<br><br>🌱 Learning about : Python , Html , Web Development<br><br>📫 Reach me at:<br> Mail-   kondreddyashwin04@gmail.com<br>Linkedin-  https://www.linkedin.com/in/ashwinireddy04/
+Hi there!👋 I'm Ashwini a passionate Java developer who loves building cool things with code. I enjoy working on open-source projects, learning new technologies, and contributing to the developer community.<br><br>💻 Currently working with basic Java Projects.<br><br>🔭 Exploring new tools like SpringBoot<br><br>🌱 Learning about : Python , Html , Web Development<br><br>📫 Reach me at:<br> Mail-   kondreddyashwin04@gmail.com<br>Linkedin-  https://www.linkedin.com/in/ashwinireddy04/
 
 
 ## 🌐 Socials:
